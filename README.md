@@ -6,7 +6,7 @@
 - 데이터간 관계 고려 X, 최대 또는 최소만을 선택(근시안적 선택)
 - 선택을 절대로 번복 X
 - 매우 단순한 편
-![image](C:\Users\CHOHYANG\Desktop\image.png)
+![image](https://user-images.githubusercontent.com/80511265/114722898-27d5f580-9d75-11eb-9dea-3fa50bf6fec3.png)
 
 ## 대표적인  그리디 알고리즘 유형
 * __동전 거스름돈__
@@ -31,9 +31,9 @@
 빈도가 잦은 문자에는 짧은 이진 코드를, 드물게 나타나는 문자에는 긴 이진코드를 할당한다. 트리를 생성하고, 각 노드에 코드를 부여하는 과정.
 
 ## 작업 스케줄링 알고리즘 수행과정
-![img](C:\Users\CHOHYANG\Desktop\img.png)
-![img (1)](C:\Users\CHOHYANG\Desktop\img (1).png)
-![img (3)](C:\Users\CHOHYANG\Desktop\img (3).png)
+![img](https://user-images.githubusercontent.com/80511265/114723064-4f2cc280-9d75-11eb-9ff8-474ac1e6f4e1.png)
+![img (1)](https://user-images.githubusercontent.com/80511265/114723092-55bb3a00-9d75-11eb-9802-26291aacd270.png)
+![img (3)](https://user-images.githubusercontent.com/80511265/114723118-5ce24800-9d75-11eb-97de-6ca70279351f.png)
 
 ## 작업 스케줄링 알고리즘의 응용 분야
 비즈니스 프로세싱, 공장 생산 공정, 강의실/세미나룸 배정, 컴퓨터 태스크 스케줄링 등등
